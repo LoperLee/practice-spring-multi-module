@@ -1,0 +1,6 @@
+rootProject.name = 'practice-spring-multi-module'
+include 'api'
+include 'exceptions'
+include 'theme'
+include 'infrastructure'
+
